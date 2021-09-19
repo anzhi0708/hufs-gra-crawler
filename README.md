@@ -1,6 +1,6 @@
 # hufs-gra-crawler
 
-Personal & beginner's python cralwer project.
+Personal & beginner's python cralwer script.
 
 - Global variables everywhere
 - Barely knows a thing about design pattern
